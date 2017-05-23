@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Lokaverkefni</string>
+    <string name="discounts">Afslættir</string>
+    <string name="about">Upplýsingar</string>
+    <string name="discount_activity">Stúdentaafsláttur</string>
+    <string name="categories_activity">Flokkar</string>
+    <string name="drawer_close">drawer close</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="starting_category">Allt</string>
+
+    <string name="food">Matur og drykkir</string>
+    <string name="clothes">Fatnaður og aukahlutir</string>
+    <string name="entertainment">Afþreying</string>
+    <string name="lifestyle">Lífstíll og heilsa</string>
+    <string name="technology">Tækni</string>
+    <string name="other">Annað</string>
+    <string name="everything">Allt</string>
+
+    <string-array name="categories">
+        <item>Matur og drykkir</item>
+        <item>Fatnaður og aukahlutir</item>
+        <item>Afþreying</item>
+        <item>Lífstíll og heilsa</item>
+        <item>Tækni</item>
+        <item>Annað</item>
+        <item>Allt</item>
+    </string-array>
+
+</resources>
